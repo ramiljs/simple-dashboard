@@ -7,7 +7,7 @@ import BookmarkAddOutlinedIcon from '@mui/icons-material/BookmarkAddOutlined';
 
 export default function HomeBanner() {
   return (
-    <div className="HomeBanner" style={{margin: '0 0 40px 300px'}}>
+    <div className="HomeBanner" style={{ margin: '0 0 40px 300px' }}>
       <Card sx={{ maxWidth: 1000 }}>
         <CardActionArea>
           <CardMedia
