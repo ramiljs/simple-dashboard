@@ -7,13 +7,13 @@ import HomeBanner from "./home-banner/home-banner";
 
 function HomeView() {
   return (
-    <>
+    <div className="homeView">
       <HomeHeader />
       <HomeDrawer />
       <HomeCards />
       <HomeBanner />
       <HomeCharts />
-    </>
+    </div>
   );
 };
 
