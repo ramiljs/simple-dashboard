@@ -1,5 +1,11 @@
 import React from "react";
-import { Box, AppBar, Toolbar, TextField, IconButton } from '@mui/material';
+import { 
+  Box, 
+  AppBar, 
+  Toolbar, 
+  TextField, 
+  IconButton 
+} from '@mui/material';
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import KeyboardBackspaceIcon from '@mui/icons-material/KeyboardBackspace';
 import ShoppingBagOutlinedIcon from '@mui/icons-material/ShoppingBagOutlined';
