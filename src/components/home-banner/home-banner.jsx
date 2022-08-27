@@ -1,5 +1,14 @@
 import React from "react";
-import { Chip, Card, Button, CardMedia, Typography, CardContent, CardActions, CardActionArea } from '@mui/material';
+import { 
+  Chip, 
+  Card, 
+  Button, 
+  CardMedia, 
+  Typography, 
+  CardContent, 
+  CardActions, 
+  CardActionArea 
+} from '@mui/material';
 import bannerImg from "../../assets/images/banner.png";
 import ErrorOutlineOutlinedIcon from '@mui/icons-material/ErrorOutlineOutlined';
 import LocalShippingOutlinedIcon from '@mui/icons-material/LocalShippingOutlined';
