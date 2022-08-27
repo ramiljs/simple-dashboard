@@ -1,7 +1,7 @@
 import React from "react";
 import HomeView from "../../components/home-view";
 
-function Home(){
+function Home() {
   return <HomeView />;
 };
 
