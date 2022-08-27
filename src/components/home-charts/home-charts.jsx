@@ -1,6 +1,20 @@
 import React from "react";
-import { Card, Stack, CardActionArea } from "@mui/material";
-import { Bar, Line, XAxis, YAxis, Legend, Tooltip, BarChart, LineChart, CartesianGrid } from 'recharts';
+import { 
+  Card, 
+  Stack, 
+  CardActionArea 
+} from "@mui/material";
+import { 
+  Bar, 
+  Line, 
+  XAxis, 
+  YAxis, 
+  Legend, 
+  Tooltip, 
+  BarChart, 
+  LineChart, 
+  CartesianGrid 
+} from 'recharts';
 
 function HomeCharts() {
   const data = [
