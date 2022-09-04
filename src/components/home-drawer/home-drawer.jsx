@@ -5,37 +5,26 @@ import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
 import NotificationsNoneOutlinedIcon from '@mui/icons-material/NotificationsNoneOutlined';
 import CurrencyExchangeOutlinedIcon from '@mui/icons-material/CurrencyExchangeOutlined';
 import { sidebarMainLinks } from "../../constants/sidebar-links";
-import { 
-  Box, 
-  List, 
-  Stack, 
-  Avatar, 
-  Drawer, 
-  ListItem, 
-  Typography, 
-  IconButton, 
-  ListItemIcon, 
-  ListItemText 
-} from '@mui/material';
+import { Box, List, Stack, Avatar, Drawer, ListItem, Typography, IconButton, ListItemIcon, ListItemText } from '@mui/material';
 
 function HomeDrawer() {
   return (
     <Box>
       <Drawer
-        sx={{
-          width: 240,
-          flexShrink: 0,
-          '& .MuiDrawer-paper': {
-            width: 240,
-            boxSizing: 'border-box',
-          },
-        }}
+        sx={{ width: 240, flexShrink: 0, '& .MuiDrawer-paper': { width: 240, boxSizing: 'border-box' } }}
         variant="permanent"
         anchor="left"
       >
         <Stack
-          sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '10px 0' }} direction="column" spacing={0}>
-          <Avatar sx={{ width: '55px', height: '55px', borderRadius: '10px' }} src={admin} alt="Admin Sale" />
+          sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '10px 0' }} 
+          direction="column" 
+          spacing={0}
+        >
+          <Avatar 
+            sx={{ width: '55px', height: '55px', borderRadius: '10px' }} 
+            src={admin} 
+            alt="Admin Sale" 
+          />
           <ListItemIcon sx={{ marginTop: '-45px', columnGap: '70px' }}>
             <IconButton>
               <SettingsOutlinedIcon fontSize="small" />
