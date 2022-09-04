@@ -9,6 +9,5 @@
 } */
 
 ::-webkit-scrollbar-thumb {
-  background: rgb(180, 180, 180); 
-  border-radius: 10px;
+  background: rgb(180, 180, 180);
 }
