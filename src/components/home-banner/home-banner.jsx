@@ -5,7 +5,7 @@ import ErrorOutlineOutlinedIcon from '@mui/icons-material/ErrorOutlineOutlined';
 import LocalShippingOutlinedIcon from '@mui/icons-material/LocalShippingOutlined';
 import BookmarkAddOutlinedIcon from '@mui/icons-material/BookmarkAddOutlined';
 
-export default function HomeBanner() {
+function HomeBanner() {
   return (
     <div className="HomeBanner" style={{ margin: '0 0 40px 300px' }}>
       <Card sx={{ maxWidth: 1000 }}>
@@ -53,3 +53,5 @@ export default function HomeBanner() {
     </div>
   )
 }
+
+export default HomeBanner;
