@@ -2,15 +2,7 @@ import React from "react";
 import ComputerOutlinedIcon from '@mui/icons-material/ComputerOutlined';
 import PhoneIphoneOutlinedIcon from '@mui/icons-material/PhoneIphoneOutlined';
 import HeadphonesBatteryOutlinedIcon from '@mui/icons-material/HeadphonesBatteryOutlined';
-import { 
-  Card, 
-  Stack, 
-  Button, 
-  Typography, 
-  CardActions, 
-  CardContent, 
-  CardActionArea 
-} from '@mui/material';
+import { Card, Stack, Button, Typography, CardActions, CardContent, CardActionArea } from '@mui/material';
 
 function HomeCards() {
   return (
