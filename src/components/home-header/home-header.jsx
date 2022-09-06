@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import { Box, AppBar, Toolbar, TextField, IconButton } from '@mui/material';
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import KeyboardBackspaceIcon from '@mui/icons-material/KeyboardBackspace';
@@ -8,7 +8,13 @@ function HomeHeader() {
   return(
     <Box sx={{ flexGrow: 1, margin: '0 0 10px 240px' }}>
       <AppBar 
-        sx={{ display: 'flex', justifyContent: 'center', width: '100%', height: '70px', backgroundColor: '#fff' }} 
+        sx={{ 
+          display: 'flex', 
+          justifyContent: 'center', 
+          width: '100%', 
+          height: '70px', 
+          backgroundColor: '#fff' 
+        }} 
         position="static"
       >
         <Toolbar variant="dense">
