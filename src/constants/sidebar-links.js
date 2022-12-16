@@ -1,13 +1,13 @@
-import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
-import ListOutlinedIcon from '@mui/icons-material/ListOutlined';
-import EmailOutlinedIcon from '@mui/icons-material/EmailOutlined';
-import AssignmentOutlinedIcon from '@mui/icons-material/AssignmentOutlined';
-import AutoAwesomeMosaicOutlinedIcon from '@mui/icons-material/AutoAwesomeMosaicOutlined';
-import ContentPasteOutlinedIcon from '@mui/icons-material/ContentPasteOutlined';
-import DashboardOutlinedIcon from '@mui/icons-material/DashboardOutlined';
-import ErrorOutlineOutlinedIcon from '@mui/icons-material/ErrorOutlineOutlined';
-import ShieldOutlinedIcon from '@mui/icons-material/ShieldOutlined';
-import ExitToAppOutlinedIcon from '@mui/icons-material/ExitToAppOutlined';
+import HomeOutlinedIcon from "@mui/icons-material/HomeOutlined";
+import ListOutlinedIcon from "@mui/icons-material/ListOutlined";
+import EmailOutlinedIcon from "@mui/icons-material/EmailOutlined";
+import AssignmentOutlinedIcon from "@mui/icons-material/AssignmentOutlined";
+import AutoAwesomeMosaicOutlinedIcon from "@mui/icons-material/AutoAwesomeMosaicOutlined";
+import ContentPasteOutlinedIcon from "@mui/icons-material/ContentPasteOutlined";
+import DashboardOutlinedIcon from "@mui/icons-material/DashboardOutlined";
+import ErrorOutlineOutlinedIcon from "@mui/icons-material/ErrorOutlineOutlined";
+import ShieldOutlinedIcon from "@mui/icons-material/ShieldOutlined";
+import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
 
 export const sidebarMainLinks = [
   {
