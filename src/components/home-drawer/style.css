@@ -1,13 +1,13 @@
-::-webkit-scrollbar{
-  width: 8px;
-  background-color: rgb(210, 210, 210);
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: rgb(210, 210, 210);
 }
 
 /* ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px #000; 
-  border-radius: 10px;
+    box-shadow: inset 0 0 5px #000;
+    border-radius: 10px;
 } */
 
 ::-webkit-scrollbar-thumb {
-  background: rgb(180, 180, 180);
+    background: rgb(180, 180, 180);
 }

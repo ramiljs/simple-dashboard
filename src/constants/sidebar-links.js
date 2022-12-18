@@ -23,7 +23,7 @@ export const sidebarMainLinks = [
     {
         "path": "/",
         "label": "Saved stores",
-       "icon": <EmailOutlinedIcon />,
+        "icon": <EmailOutlinedIcon />,
     },
     {
         "path": "/",
