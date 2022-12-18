@@ -10,54 +10,54 @@ import ShieldOutlinedIcon from "@mui/icons-material/ShieldOutlined";
 import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
 
 export const sidebarMainLinks = [
-  {
-    "path": "/",
-    "label": "Stores",
-    "icon": <HomeOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Order history",
-    "icon": <ListOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Saved stores",
-    "icon": <EmailOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Liked products",
-    "icon": <AssignmentOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Viewed products",
-    "icon": <AutoAwesomeMosaicOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Wallet history",
-    "icon": <ContentPasteOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Profile settings",
-    "icon": <DashboardOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Error",
-    "icon": <ErrorOutlineOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Shield",
-    "icon": <ShieldOutlinedIcon />,
-  },
-  {
-    "path": "/",
-    "label": "Exit",
-    "icon": <ExitToAppOutlinedIcon />,
-  },
+    {
+        "path": "/",
+        "label": "Stores",
+        "icon": <HomeOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Order history",
+        "icon": <ListOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Saved stores",
+       "icon": <EmailOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Liked products",
+        "icon": <AssignmentOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Viewed products",
+        "icon": <AutoAwesomeMosaicOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Wallet history",
+        "icon": <ContentPasteOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Profile settings",
+        "icon": <DashboardOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Error",
+        "icon": <ErrorOutlineOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Shield",
+        "icon": <ShieldOutlinedIcon />,
+    },
+    {
+        "path": "/",
+        "label": "Exit",
+        "icon": <ExitToAppOutlinedIcon />,
+    },
 ];
